@@ -110,3 +110,6 @@ sort -k5 -rn random_ls
 cd indices/56880
 cat indice
 cp indices/56880/indice indices-trouvés/indice11
+
+### image dans indice
+![pingouin.jpg](https://github.com/oumakdr/Chasse_au_tresor-Khadira/blob/main/pingouin.jpg)
